@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Favoritku</string>
+    <string name="nama_title">title</string>
+    <string name="overview">overview</string>
+    <string name="release_date">date</string>
+    <string name="btn_detail">Detail</string>
+    <string name="btn_share">Share</string>
+    <string name="favorit">Hapus Favorit</string>
+    <string name="Release_date">Tanggal Rilis</string>
+    <string name="popularity">Popularitas</string>
+    <string name="judul">Judul</string>
+    <string name="Overview">Keterangan</string>
+    <string name="vote">Vote Rata-rata</string>
+    <string name="hapus">Hapus favorit</string>
+</resources>

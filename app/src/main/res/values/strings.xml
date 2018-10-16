@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">KatalogFilmsUIUX</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Sabri Nurdin</string>
+    <string name="nav_header_subtitle">Universitas Muhammadiyah Parepare</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Pengaturan</string>
+    <string name="search"></string>
+    <string name="masukkan_nama_film">Pencarian Film</string>
+    <string name="cari">Cari</string>
+    <string name="nama_title">title</string>
+    <string name="overview">overview</string>
+    <string name="release_date">date</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="btn_detail">DETAIL</string>
+    <string name="btn_share">BAGIKAN</string>
+    <string name="home">Pencarian</string>
+    <string name="now_plaing">Sedang dimainkan</string>
+    <string name="upcoming">Mendatang</string>
+    <string name="vote">Rata-rata Penilaian : </string>
+    <string name="judul">Judul</string>
+    <string name="popularity">Kepopuleran</string>
+    <string name="Release_date">Tanggal Rilis</string>
+    <string name="Overview">Ulasan</string>
+    <string name="favorit">+ sebagai favorit</string>
+    <string name="hapus">Hapus favorit</string>
+    <string name="favo">favorit</string>
+    <string name="simpan">Film ditambahkan ke favoritku</string>
+    <string name="search_hint">Masukkan Pencarian film</string>
+    <string name="toastfavotit">Film ditambahkan ke favoritku</string>
+    <string name="toasthapus">Film di hapus dari favorit</string>
+    <string name="share">Bagikan film</string>
+    <string name="appwidget_text">Daftar Favorit Film</string>
+    <string name="add_widget">Tambah widget</string>
+    <string name="empty_text">Tidak Ada Favorit</string>
+    <string name="title_activity_settings">Pengaturan</string>
+    <string name="lang_title">Bahasa</string>
+    <string name="lang">Bahasa</string>
+    <string name="key_lang">key_language</string>
+    <string name="pref_title_notifications">Notifikasi</string>
+    <string name="key_today_reminder">key_today_reminder</string>
+    <string name="summary_daily_reminder">Nyalakan/Matikan notikasi pengingat harian</string>
+    <string name="daily_reminder">Pengingat Harian</string>
+    <string name="key_release_reminder">key_release_date</string>
+    <string name="release_reminder">Yuk lihat ! film</string>
+    <string name="summary_release_reminder">Nyalakan/Matikan notifikasi film yang akan rilis</string>
+    <string name="release_pref">Pengingat Rilis</string>
+    <string name="summary_lang">Ubah pengaturan bahasa</string>
+    <string name="label_alarm_daily_reminder">Yuk..! lihat film-film di Katalog Movie</string>
+    <string name="release_today">rilis hari ini</string>
+
+</resources>
